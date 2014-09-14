@@ -1,3 +1,11 @@
+ER diagram of database
+
+http://s23.postimg.org/jggwvaabf/Screen_Shot_2014_09_14_at_5_25_44_PM.png
+
+
+
+
+
 # Sinatra Active Record Starter Kit
 
 This template provides a basic [Sinatra](http://www.sinatrarb.com/) application
